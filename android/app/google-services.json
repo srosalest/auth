@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422462729055",
+    "firebase_url": "https://tureciclaje-auth.firebaseio.com",
+    "project_id": "tureciclaje-auth",
+    "storage_bucket": "tureciclaje-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422462729055:android:5e8b55f2ebce402f1364ea",
+        "android_client_info": {
+          "package_name": "com.example.tureciclaje_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422462729055-08lgcf8ce9emlbn0ofukcj3hfbm0a5gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tureciclaje_auth",
+            "certificate_hash": "e524afeaa0ff9d651af4567aacd452fb893cf0b5"
+          }
+        },
+        {
+          "client_id": "422462729055-0on1cc7l686oag1pa664tm586vcffa7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkPHNiPwGrzndtrZZY9pa3cylD2QTIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422462729055-0on1cc7l686oag1pa664tm586vcffa7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
